@@ -1,0 +1,17 @@
+{
+  "name": "server-http",
+  "version": "1.0.0",
+  "description": "Criando servidor com http no express",
+  "main": "serverhttp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Pedro Augusto",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
